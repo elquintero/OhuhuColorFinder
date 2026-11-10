@@ -1,0 +1,24 @@
+# Ohuhu Color Finder — prototipo PWA
+
+## Qué incluye
+- Diseño responsive para móvil, tablet y ordenador.
+- Buscador por código, nombre y familia.
+- Filtros por gama.
+- Ficha emergente con muestra y código HEX.
+- Favoritos guardados en el navegador.
+- Manifest y service worker para instalación y uso offline tras la primera carga.
+
+## Importante
+Los 16 registros incluidos (D-01 a D-16) son datos ficticios para probar la interfaz. No son códigos ni colores oficiales de Ohuhu. No se debe presentar este catálogo como completo ni como verificado.
+
+## Cómo probarlo
+1. Descomprime el ZIP.
+2. Para probar en local, abre `index.html` en el navegador. La interfaz funciona; la instalación PWA y el modo offline requieren servir la carpeta mediante HTTPS o localhost.
+3. Para publicarlo, sube el contenido de esta carpeta a la raíz de tu web o a una subcarpeta.
+4. Para GitHub Pages, sube todos los archivos conservando las carpetas.
+
+## Cómo instalar
+Abre la URL publicada en Chrome/Edge o Safari y utiliza la opción «Instalar aplicación» o «Añadir a pantalla de inicio», según el dispositivo.
+
+## Próximo paso
+Sustituir el archivo `app.js` por el catálogo oficial verificado de Ohuhu Honolulu, incluyendo códigos originales, equivalencias nuevas, nombres y muestras contrastadas.
