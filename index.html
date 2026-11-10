@@ -1,65 +1,17 @@
 <!doctype html>
-<html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#171b24">
-  <meta name="description" content="Buscador visual de colores para rotuladores Ohuhu Honolulu.">
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css">
-  <title>Ohuhu Color Finder</title>
-</head>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#171b24"><meta name="description" content="Buscador de los 320 códigos originales Ohuhu Honolulu">
+<link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icons/icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><title>Ohuhu Color Finder</title></head>
 <body>
-  <header class="top">
-    <div class="brand"><span class="brand-mark">◒</span><span>OHUHU <b>COLOR FINDER</b></span></div>
-    <span class="demo-tag">PROTOTIPO</span>
-  </header>
-
-  <main>
-    <section class="hero">
-      <p class="eyebrow">TU CARTA DE COLORES DIGITAL</p>
-      <h1>Encuentra<br class="mobile-break"> tu color<span>.</span></h1>
-      <p class="intro">Busca por código, explora por gamas y guarda tus favoritos.</p>
-      <label class="search">
-        <span aria-hidden="true">⌕</span>
-        <input id="search" type="search" placeholder="Buscar código o nombre…" autocomplete="off">
-        <button id="clearSearch" class="clear" aria-label="Borrar búsqueda" hidden>×</button>
-      </label>
-      <div class="hero-foot"><span>COLORES EN ESTA VISTA</span><strong id="count">16</strong></div>
-    </section>
-
-    <section class="catalog">
-      <div class="section-head">
-        <div><p class="eyebrow dark-eyebrow">CATÁLOGO</p><h2>Explora los tonos</h2></div>
-        <button id="favoritesToggle" class="favorite-filter" aria-pressed="false">♡ <span>Favoritos</span></button>
-      </div>
-      <nav id="filters" class="filters" aria-label="Filtrar por gama"></nav>
-      <div id="swatches" class="swatches" aria-live="polite"></div>
-      <p id="empty" class="empty" hidden>No hay resultados. Prueba otra búsqueda o gama.</p>
-      <p class="disclaimer">Los códigos y nombres D-01 a D-16 son datos ficticios de demostración; no son referencias oficiales Ohuhu. Se sustituirán por el catálogo original verificado.</p>
-    </section>
-  </main>
-
-  <nav class="bottom-nav" aria-label="Navegación">
-    <a class="active" href="#catalog"><span>▦</span>Colores</a>
-    <button id="bottomFavorites"><span>♡</span>Favoritos</button>
-    <a href="#catalog"><span>▤</span>Paletas</a>
-    <a href="#catalog"><span>◉</span>Mi colección</a>
-  </nav>
-
-  <dialog id="colorDialog">
-    <button class="dialog-close" id="closeDialog" aria-label="Cerrar">×</button>
-    <div id="detailSwatch" class="detail-swatch"></div>
-    <div class="detail-content">
-      <p class="eyebrow dark-eyebrow">DETALLE DEL COLOR</p>
-      <h2 id="detailName">Color</h2>
-      <p id="detailCode" class="detail-code"></p>
-      <p id="detailFamily" class="detail-family"></p>
-      <div class="hex-row"><span id="detailHex"></span><button id="copyHex">Copiar HEX</button></div>
-      <button id="detailFavorite" class="save-button">♡ Añadir a favoritos</button>
-    </div>
-  </dialog>
-  <script src="app.js"></script>
-</body>
-</html>
+<header class="top"><div class="brand"><span class="brand-mark">◒</span><span>OHUHU <b>COLOR FINDER</b></span></div><span class="demo-tag">HONOLULU 320</span></header>
+<main>
+<section class="hero"><p class="eyebrow">TU CARTA DE COLORES DIGITAL</p><h1>Encuentra tu color<span>.</span></h1><p class="intro">Los 320 códigos originales del set Honolulu, en un buscador rápido.</p>
+<label class="search"><span>⌕</span><input id="search" type="search" placeholder="Código, nombre o gama…" autocomplete="off"><button id="clearSearch" class="clear" aria-label="Borrar búsqueda" hidden>×</button></label>
+<div class="hero-foot"><span>RESULTADOS</span><strong id="count">320 / 320</strong></div></section>
+<section class="catalog"><div class="section-head"><div><p class="eyebrow dark-eyebrow">CATÁLOGO OFICIAL DE CÓDIGOS</p><h2>Explora los tonos</h2></div><button id="favoritesToggle" class="favorite-filter" aria-pressed="false">♡ <span>Favoritos</span></button></div>
+<nav id="filters" class="filters" aria-label="Filtrar por gama"></nav><div class="sort-row"><span id="rangeLabel">320 colores</span><select id="sort" aria-label="Ordenar colores"><option value="code">Código original</option><option value="name">Nombre A–Z</option><option value="hue">Gama de color</option></select></div>
+<div id="swatches" class="swatches" aria-live="polite"></div><p id="empty" class="empty" hidden>No hay resultados. Prueba otra búsqueda o gama.</p>
+<p class="disclaimer">Códigos y nombres transcritos de la carta oficial Ohuhu Honolulu 320 (códigos antiguos). Las muestras HEX son aproximaciones visuales generadas para orientar la búsqueda: no son mediciones oficiales ni sustituyen el color real del rotulador. El color cambia según papel, tinta y pantalla.</p></section></main>
+<nav class="bottom-nav" aria-label="Navegación"><a class="active" href="#"><span>▦</span>Colores</a><button id="bottomFavorites"><span>♡</span>Favoritos</button><button id="showAll"><span>⌕</span>Buscar</button><a href="#filters"><span>◉</span>Gamas</a></nav>
+<dialog id="colorDialog"><button class="dialog-close" id="closeDialog" aria-label="Cerrar">×</button><div id="detailSwatch" class="detail-swatch"></div><div class="detail-content"><p class="eyebrow dark-eyebrow">OHUHU HONOLULU · CÓDIGO ORIGINAL</p><h2 id="detailName">Color</h2><p id="detailCode" class="detail-code"></p><p id="detailFamily" class="detail-family"></p><div class="hex-row"><span id="detailHex"></span><button id="copyHex">Copiar HEX</button></div><p class="detail-note">Muestra digital orientativa. Para confirmar el tono, consulta tu rotulador y su carta pintada.</p><button id="detailFavorite" class="save-button">♡ Añadir a favoritos</button></div></dialog>
+<script src="app.js"></script></body></html>

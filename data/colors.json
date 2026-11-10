@@ -1,0 +1,2562 @@
+[
+  {
+    "code": "Y1",
+    "name": "Pastel Yellow",
+    "family": "Y",
+    "hex": "#C6C19F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y2",
+    "name": "Sunflower",
+    "family": "Y",
+    "hex": "#C9B848",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y3",
+    "name": "Barium Yellow",
+    "family": "Y",
+    "hex": "#D6C452",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y4",
+    "name": "Quince",
+    "family": "Y",
+    "hex": "#E1CF5E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y5",
+    "name": "Rouge Orange",
+    "family": "Y",
+    "hex": "#D3C883",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y6",
+    "name": "Lemon Yellow",
+    "family": "Y",
+    "hex": "#C1AF39",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y7",
+    "name": "Dull Yellow",
+    "family": "Y",
+    "hex": "#D1BE40",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y8",
+    "name": "Olive Yellow",
+    "family": "Y",
+    "hex": "#DDCA4B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y9",
+    "name": "Yellow Ochre",
+    "family": "Y",
+    "hex": "#CDC172",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y10",
+    "name": "Apricot",
+    "family": "Y",
+    "hex": "#D9CC7D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y11",
+    "name": "Brown Grey",
+    "family": "Y",
+    "hex": "#665F33",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y12",
+    "name": "Mahogany",
+    "family": "Y",
+    "hex": "#DAC437",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y13",
+    "name": "Chestnut Brown",
+    "family": "Y",
+    "hex": "#786D26",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y010",
+    "name": "Primrose",
+    "family": "Y",
+    "hex": "#D3C66B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y030",
+    "name": "Lemon Chiffon",
+    "family": "Y",
+    "hex": "#DFD177",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y040",
+    "name": "Calamansi",
+    "family": "Y",
+    "hex": "#D3BC27",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y050",
+    "name": "Summer Lemon",
+    "family": "Y",
+    "hex": "#C1B250",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y070",
+    "name": "Acid Yellow",
+    "family": "Y",
+    "hex": "#CEBF5A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y080",
+    "name": "Lightning Yellow",
+    "family": "Y",
+    "hex": "#E5E0C5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y110",
+    "name": "Grayish Yellow",
+    "family": "Y",
+    "hex": "#8F843D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y120",
+    "name": "Buttercup Yellow",
+    "family": "Y",
+    "hex": "#B8A842",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y121",
+    "name": "Primrose",
+    "family": "Y",
+    "hex": "#C9B848",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y130",
+    "name": "Mustard",
+    "family": "Y",
+    "hex": "#D6C452",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y140",
+    "name": "Nugget",
+    "family": "Y",
+    "hex": "#E1CF5E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y180",
+    "name": "Shallow Orange Cafe",
+    "family": "Y",
+    "hex": "#D3C883",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y210",
+    "name": "Deep Teak",
+    "family": "Y",
+    "hex": "#796D20",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y230",
+    "name": "Deep Cream",
+    "family": "Y",
+    "hex": "#7F711A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y250",
+    "name": "Flax",
+    "family": "Y",
+    "hex": "#DDCA4B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y260",
+    "name": "Yellow Dahlia",
+    "family": "Y",
+    "hex": "#CDC172",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "Y270",
+    "name": "Pale Ochre",
+    "family": "Y",
+    "hex": "#E3DFCA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR1",
+    "name": "Dark Yellow",
+    "family": "YR",
+    "hex": "#7F491A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR2",
+    "name": "Marigold",
+    "family": "YR",
+    "hex": "#DA8337",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR3",
+    "name": "Orange",
+    "family": "YR",
+    "hex": "#C79161",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR4",
+    "name": "Salmon Pink",
+    "family": "YR",
+    "hex": "#D39C6B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR5",
+    "name": "Terra Cotta",
+    "family": "YR",
+    "hex": "#DFA777",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR33",
+    "name": "Melon Yellow",
+    "family": "YR",
+    "hex": "#D37727",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR030",
+    "name": "Carmine Red",
+    "family": "YR",
+    "hex": "#C18550",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR070",
+    "name": "Light Orange",
+    "family": "YR",
+    "hex": "#DAC8B9",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR090",
+    "name": "Peach Pie",
+    "family": "YR",
+    "hex": "#DA9B65",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR110",
+    "name": "Mellow Peach",
+    "family": "YR",
+    "hex": "#E4A771",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR170",
+    "name": "Chrome Orange",
+    "family": "YR",
+    "hex": "#B87942",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR172",
+    "name": "Tiger Lily",
+    "family": "YR",
+    "hex": "#C98448",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR180",
+    "name": "Lipstick Orange",
+    "family": "YR",
+    "hex": "#D69052",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR190",
+    "name": "Cadmium Orange",
+    "family": "YR",
+    "hex": "#E19B5E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR220",
+    "name": "Yellowish Shade",
+    "family": "YR",
+    "hex": "#D3A883",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR240",
+    "name": "Cream",
+    "family": "YR",
+    "hex": "#CAB19B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR250",
+    "name": "Moccasin",
+    "family": "YR",
+    "hex": "#D18440",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YR260",
+    "name": "Yellowish Brown",
+    "family": "YR",
+    "hex": "#884B16",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV010",
+    "name": "Water Lily",
+    "family": "RV",
+    "hex": "#CD7295",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV030",
+    "name": "Light Hot Pink",
+    "family": "RV",
+    "hex": "#E3CAD3",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV070",
+    "name": "Sakura Pink",
+    "family": "RV",
+    "hex": "#CA306B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV080",
+    "name": "Bright Pink",
+    "family": "RV",
+    "hex": "#F3196C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV100",
+    "name": "Red Onion",
+    "family": "RV",
+    "hex": "#C76188",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV130",
+    "name": "Queen Pink",
+    "family": "RV",
+    "hex": "#D36B93",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV160",
+    "name": "Thistle",
+    "family": "RV",
+    "hex": "#DF779F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV180",
+    "name": "Hollyhock",
+    "family": "RV",
+    "hex": "#D32769",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV200",
+    "name": "Dark Orchid",
+    "family": "RV",
+    "hex": "#742543",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV240",
+    "name": "Bronze Purple",
+    "family": "RV",
+    "hex": "#CE5A86",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV250",
+    "name": "Peony",
+    "family": "RV",
+    "hex": "#DA6592",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV260",
+    "name": "Pink",
+    "family": "RV",
+    "hex": "#E4719D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV270",
+    "name": "Shadow Pink",
+    "family": "RV",
+    "hex": "#B8426F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV280",
+    "name": "Light Pink",
+    "family": "RV",
+    "hex": "#D2AAB9",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV300",
+    "name": "Tender Pink",
+    "family": "RV",
+    "hex": "#D65285",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV320",
+    "name": "Apricot Pink",
+    "family": "RV",
+    "hex": "#E15E90",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV330",
+    "name": "Strawberry Pink",
+    "family": "RV",
+    "hex": "#D383A2",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RV350",
+    "name": "Crimson",
+    "family": "RV",
+    "hex": "#C1396D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RP1",
+    "name": "Vivid Reddish Purple",
+    "family": "RP",
+    "hex": "#F319AA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RP6",
+    "name": "Vivid Pink",
+    "family": "RP",
+    "hex": "#F42FB2",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R1",
+    "name": "Coral Pink",
+    "family": "R",
+    "hex": "#CD7672",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R2",
+    "name": "Vermilion",
+    "family": "R",
+    "hex": "#D9827D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R3",
+    "name": "Coral Red",
+    "family": "R",
+    "hex": "#CA3830",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R4",
+    "name": "Deep Red",
+    "family": "R",
+    "hex": "#841B15",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R5",
+    "name": "Cherry Pink",
+    "family": "R",
+    "hex": "#C76661",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R6",
+    "name": "Rose Red",
+    "family": "R",
+    "hex": "#D3706B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R7",
+    "name": "Old Red",
+    "family": "R",
+    "hex": "#DF7C77",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R8",
+    "name": "Geranium",
+    "family": "R",
+    "hex": "#D33027",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R9",
+    "name": "Pastel Rose",
+    "family": "R",
+    "hex": "#CEAFAE",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R10",
+    "name": "Pastel Pink",
+    "family": "R",
+    "hex": "#DABBB9",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R11",
+    "name": "Mauve Shadow",
+    "family": "R",
+    "hex": "#DA6A65",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R12",
+    "name": "Rose Buvard",
+    "family": "R",
+    "hex": "#E47771",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R13",
+    "name": "Clematis",
+    "family": "R",
+    "hex": "#B84842",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R14",
+    "name": "Pale Purple",
+    "family": "R",
+    "hex": "#D2ACAA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R15",
+    "name": "Cerise",
+    "family": "R",
+    "hex": "#D65952",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R16",
+    "name": "Deep Violet",
+    "family": "R",
+    "hex": "#9C1F19",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R17",
+    "name": "Pansy",
+    "family": "R",
+    "hex": "#D38783",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R18",
+    "name": "Pastel Peach",
+    "family": "R",
+    "hex": "#CA9E9B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R19",
+    "name": "Barely Beige",
+    "family": "R",
+    "hex": "#D6A8A6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R20",
+    "name": "Powder Pink",
+    "family": "R",
+    "hex": "#DD524B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R21",
+    "name": "Fruit Pink",
+    "family": "R",
+    "hex": "#CD7672",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R22",
+    "name": "Dark Blush",
+    "family": "R",
+    "hex": "#A2302A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R23",
+    "name": "Rose Pink",
+    "family": "R",
+    "hex": "#CA3830",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R24",
+    "name": "Dark Violet Light",
+    "family": "R",
+    "hex": "#841B15",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R25",
+    "name": "Pale Blue Violet",
+    "family": "R",
+    "hex": "#D7BDBC",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R29",
+    "name": "Pearl Color",
+    "family": "R",
+    "hex": "#E2C9C8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R050",
+    "name": "Chocolate Pink",
+    "family": "R",
+    "hex": "#DF7C77",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R070",
+    "name": "Agate",
+    "family": "R",
+    "hex": "#D33027",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R080",
+    "name": "Pale Cherry Pink",
+    "family": "R",
+    "hex": "#CEAFAE",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R110",
+    "name": "Sardonyx",
+    "family": "R",
+    "hex": "#CE5F5A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R120",
+    "name": "Light Prawn",
+    "family": "R",
+    "hex": "#E5C7C5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R150",
+    "name": "Zinnober",
+    "family": "R",
+    "hex": "#E47771",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R160",
+    "name": "Cadmium Red",
+    "family": "R",
+    "hex": "#B84842",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R170",
+    "name": "Lipstick Red",
+    "family": "R",
+    "hex": "#C94E48",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R180",
+    "name": "Bright Red",
+    "family": "R",
+    "hex": "#F4392F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R190",
+    "name": "Bougainvillea",
+    "family": "R",
+    "hex": "#E1645E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R200",
+    "name": "Coralescence",
+    "family": "R",
+    "hex": "#D38783",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R230",
+    "name": "Strong Red",
+    "family": "R",
+    "hex": "#C14039",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R240",
+    "name": "Garnet",
+    "family": "R",
+    "hex": "#D14740",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R242",
+    "name": "Grayish Cherry",
+    "family": "R",
+    "hex": "#6F322F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R250",
+    "name": "Antique Fuchsia",
+    "family": "R",
+    "hex": "#CD7672",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R270",
+    "name": "Baby Blossoms",
+    "family": "R",
+    "hex": "#D9827D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R280",
+    "name": "Currant",
+    "family": "R",
+    "hex": "#CA3830",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R282",
+    "name": "Colocasia Torino",
+    "family": "R",
+    "hex": "#DA3F37",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R284",
+    "name": "Clove",
+    "family": "R",
+    "hex": "#C76661",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R290",
+    "name": "Cardinal",
+    "family": "R",
+    "hex": "#D3706B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R340",
+    "name": "Argyle Purple",
+    "family": "R",
+    "hex": "#DF7C77",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "R350",
+    "name": "Dark Purple Grey",
+    "family": "R",
+    "hex": "#6B312E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "P1",
+    "name": "Vivid Purple",
+    "family": "P",
+    "hex": "#AB28E4",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "P2",
+    "name": "Light Violet",
+    "family": "P",
+    "hex": "#D0B9DA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "P3",
+    "name": "Pastel Violet",
+    "family": "P",
+    "hex": "#DBC5E5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "P4",
+    "name": "Lavender",
+    "family": "P",
+    "hex": "#C271E4",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "P5",
+    "name": "Aubergine",
+    "family": "P",
+    "hex": "#5C2574",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V020",
+    "name": "Pale Lilac",
+    "family": "V",
+    "hex": "#BEAAD2",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V030",
+    "name": "Mauve",
+    "family": "V",
+    "hex": "#9452D6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V050",
+    "name": "Pearl Violet",
+    "family": "V",
+    "hex": "#D5C2E8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V060",
+    "name": "Amethyst",
+    "family": "V",
+    "hex": "#AB83D3",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V070",
+    "name": "Eggplant Purple",
+    "family": "V",
+    "hex": "#7D39C1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V080",
+    "name": "Dark Violet",
+    "family": "V",
+    "hex": "#4C1A7F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V150",
+    "name": "Mallow",
+    "family": "V",
+    "hex": "#944BDD",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V160",
+    "name": "Deep Lilac",
+    "family": "V",
+    "hex": "#5B2C89",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V210",
+    "name": "Signal Violet",
+    "family": "V",
+    "hex": "#AB7DD9",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V230",
+    "name": "Viola",
+    "family": "V",
+    "hex": "#7D30CA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V250",
+    "name": "Light Lavender",
+    "family": "V",
+    "hex": "#BEA1DB",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V270",
+    "name": "Lobelia",
+    "family": "V",
+    "hex": "#9461C7",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V320",
+    "name": "Gentian Violet",
+    "family": "V",
+    "hex": "#9F6BD3",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V322",
+    "name": "Rain Flower Purple",
+    "family": "V",
+    "hex": "#AB77DF",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V330",
+    "name": "Prune",
+    "family": "V",
+    "hex": "#7D27D3",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V340",
+    "name": "Lavender Blue",
+    "family": "V",
+    "hex": "#8850C1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V370",
+    "name": "Blue Bell",
+    "family": "V",
+    "hex": "#945ACE",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V390",
+    "name": "Dark Slate Blue",
+    "family": "V",
+    "hex": "#5B1F96",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "V450",
+    "name": "Dark Lavender",
+    "family": "V",
+    "hex": "#661CB0",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B030",
+    "name": "Frost Blue",
+    "family": "B",
+    "hex": "#427DB8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B050",
+    "name": "Robin's Egg Blue",
+    "family": "B",
+    "hex": "#4888C9",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B070",
+    "name": "Tahitian Blue",
+    "family": "B",
+    "hex": "#5294D6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B080",
+    "name": "Process Blue",
+    "family": "B",
+    "hex": "#5E9FE1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B090",
+    "name": "Pebble Blue",
+    "family": "B",
+    "hex": "#83ABD3",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B110",
+    "name": "Crystal Blue",
+    "family": "B",
+    "hex": "#397DC1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B120",
+    "name": "Pale Blue",
+    "family": "B",
+    "hex": "#A6BED6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B140",
+    "name": "Aquamarine",
+    "family": "B",
+    "hex": "#4B94DD",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B180",
+    "name": "Vienna Blue",
+    "family": "B",
+    "hex": "#729FCD",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B190",
+    "name": "Ultramarine",
+    "family": "B",
+    "hex": "#7DABD9",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B220",
+    "name": "Pale Grayish Blue",
+    "family": "B",
+    "hex": "#334C66",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B250",
+    "name": "Light Blue",
+    "family": "B",
+    "hex": "#A1BEDB",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B260",
+    "name": "Smoky Blue",
+    "family": "B",
+    "hex": "#6194C7",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B270",
+    "name": "Vivid Blue",
+    "family": "B",
+    "hex": "#4A9DF0",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B290",
+    "name": "Antwerp Blue",
+    "family": "B",
+    "hex": "#77ABDF",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B340",
+    "name": "Lavender Mist",
+    "family": "B",
+    "hex": "#90B2D5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B350",
+    "name": "Cornflower Blue",
+    "family": "B",
+    "hex": "#5088C1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B380",
+    "name": "Capri Blue",
+    "family": "B",
+    "hex": "#5A94CE",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B440",
+    "name": "Cyanine Blue",
+    "family": "B",
+    "hex": "#659FDA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "B64",
+    "name": "Indian Blue",
+    "family": "B",
+    "hex": "#71ABE4",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB1",
+    "name": "Sky Blue",
+    "family": "PB",
+    "hex": "#4273B8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB2",
+    "name": "Brilliant Blue",
+    "family": "PB",
+    "hex": "#487EC9",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB3",
+    "name": "Cobalt Blue",
+    "family": "PB",
+    "hex": "#5289D6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB4",
+    "name": "Napoleon Blue",
+    "family": "PB",
+    "hex": "#5E94E1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB5",
+    "name": "Prussian Blue",
+    "family": "PB",
+    "hex": "#315D9B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB6",
+    "name": "Royal Blue",
+    "family": "PB",
+    "hex": "#3972C1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB7",
+    "name": "Pastel Blue",
+    "family": "PB",
+    "hex": "#A6BAD6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB8",
+    "name": "Cerulean Blue",
+    "family": "PB",
+    "hex": "#4B88DD",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB9",
+    "name": "Cloud Blue",
+    "family": "PB",
+    "hex": "#7298CD",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB10",
+    "name": "Turquoise Green Light",
+    "family": "PB",
+    "hex": "#CAD4E3",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "PB11",
+    "name": "Marine Blue",
+    "family": "PB",
+    "hex": "#3070CA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG1",
+    "name": "Turquoise Green",
+    "family": "BG",
+    "hex": "#37CCDA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG2",
+    "name": "Deep Green",
+    "family": "BG",
+    "hex": "#267178",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG3",
+    "name": "Blue Grey 3",
+    "family": "BG",
+    "hex": "#436F73",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG4",
+    "name": "Mint Blue",
+    "family": "BG",
+    "hex": "#77D6DF",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG5",
+    "name": "Dolphin Blue",
+    "family": "BG",
+    "hex": "#27C4D3",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG6",
+    "name": "Peacock Green",
+    "family": "BG",
+    "hex": "#50B7C1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG7",
+    "name": "Forest Green",
+    "family": "BG",
+    "hex": "#5AC5CE",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG8",
+    "name": "Teal",
+    "family": "BG",
+    "hex": "#65D0DA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG9",
+    "name": "Pigeon Blue",
+    "family": "BG",
+    "hex": "#71DBE4",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG68",
+    "name": "Turquoise Blue",
+    "family": "BG",
+    "hex": "#42AEB8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G1",
+    "name": "Emerald Green",
+    "family": "G",
+    "hex": "#48C962",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G2",
+    "name": "Vivid Green",
+    "family": "G",
+    "hex": "#2FF456",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G3",
+    "name": "Ocean Green",
+    "family": "G",
+    "hex": "#5EE178",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G4",
+    "name": "Mint Green Light",
+    "family": "G",
+    "hex": "#CCE0D0",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G5",
+    "name": "Turquoise Ink Blue",
+    "family": "G",
+    "hex": "#39C154",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G6",
+    "name": "Dusty Jade Green",
+    "family": "G",
+    "hex": "#40D15D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G7",
+    "name": "Chromium Oxide Green",
+    "family": "G",
+    "hex": "#4BDD68",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G8",
+    "name": "Glass Green",
+    "family": "G",
+    "hex": "#72CD84",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G9",
+    "name": "Meadow Green",
+    "family": "G",
+    "hex": "#7DD98F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G020",
+    "name": "Pale Lemon Yellow",
+    "family": "G",
+    "hex": "#96CFA1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G030",
+    "name": "Crescent Yellow",
+    "family": "G",
+    "hex": "#37DA58",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G050",
+    "name": "Celadon Green",
+    "family": "G",
+    "hex": "#61C775",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G060",
+    "name": "Celery Yellow",
+    "family": "G",
+    "hex": "#6BD380",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G070",
+    "name": "Lemon Green",
+    "family": "G",
+    "hex": "#77DF8C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G080",
+    "name": "Limeade",
+    "family": "G",
+    "hex": "#27D34A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G110",
+    "name": "Mignonette",
+    "family": "G",
+    "hex": "#50C167",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G120",
+    "name": "Yellowish Green",
+    "family": "G",
+    "hex": "#5ACE71",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G130",
+    "name": "Acid Green",
+    "family": "G",
+    "hex": "#65DA7C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G140",
+    "name": "Horseradish",
+    "family": "G",
+    "hex": "#71E488",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G170",
+    "name": "May Green",
+    "family": "G",
+    "hex": "#42B859",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G190",
+    "name": "Olive Green",
+    "family": "G",
+    "hex": "#48C962",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G220",
+    "name": "Lime Green",
+    "family": "G",
+    "hex": "#52D66C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G240",
+    "name": "Beige Green",
+    "family": "G",
+    "hex": "#C2E8CA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G260",
+    "name": "Apple Green",
+    "family": "G",
+    "hex": "#83D393",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G270",
+    "name": "Moss",
+    "family": "G",
+    "hex": "#39C154",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G300",
+    "name": "Dark Olive",
+    "family": "G",
+    "hex": "#1A7F2E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G320",
+    "name": "Jade Green",
+    "family": "G",
+    "hex": "#4BDD68",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G322",
+    "name": "Pale Aqua Mint",
+    "family": "G",
+    "hex": "#CADFCF",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G324",
+    "name": "Aqua Blue",
+    "family": "G",
+    "hex": "#7DD98F",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G326",
+    "name": "Bright Blue",
+    "family": "G",
+    "hex": "#0CE938",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G330",
+    "name": "Mineral Green",
+    "family": "G",
+    "hex": "#37DA58",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G340",
+    "name": "Horizon Green",
+    "family": "G",
+    "hex": "#61C775",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G360",
+    "name": "Pond Green",
+    "family": "G",
+    "hex": "#6BD380",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G390",
+    "name": "Green",
+    "family": "G",
+    "hex": "#77DF8C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G410",
+    "name": "Light Holly Green",
+    "family": "G",
+    "hex": "#90D59E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G420",
+    "name": "Green Shadow",
+    "family": "G",
+    "hex": "#50C167",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G440",
+    "name": "Leaf Green",
+    "family": "G",
+    "hex": "#5ACE71",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G470",
+    "name": "Pine Tree Green",
+    "family": "G",
+    "hex": "#65DA7C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G490",
+    "name": "Viridian",
+    "family": "G",
+    "hex": "#71E488",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "G500",
+    "name": "Peacock Blue",
+    "family": "G",
+    "hex": "#42B859",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY1",
+    "name": "Pale Green",
+    "family": "GY",
+    "hex": "#B9D2AA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY2",
+    "name": "Grass Green",
+    "family": "GY",
+    "hex": "#82D652",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY3",
+    "name": "Bud Green",
+    "family": "GY",
+    "hex": "#8EE15E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY4",
+    "name": "Yellow Green",
+    "family": "GY",
+    "hex": "#A0D383",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY5",
+    "name": "Absinthe",
+    "family": "GY",
+    "hex": "#6BC139",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY6",
+    "name": "Anise",
+    "family": "GY",
+    "hex": "#75D140",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY7",
+    "name": "Sugarcane",
+    "family": "GY",
+    "hex": "#80DD4B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY8",
+    "name": "Petits Pois",
+    "family": "GY",
+    "hex": "#93CD72",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY42",
+    "name": "Bronze Green",
+    "family": "GY",
+    "hex": "#9FD97D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY43",
+    "name": "Deep Olive Green",
+    "family": "GY",
+    "hex": "#3F7F1A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY172",
+    "name": "Spectrum Green",
+    "family": "GY",
+    "hex": "#73DA37",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GY173",
+    "name": "Dim Green",
+    "family": "GY",
+    "hex": "#86C761",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E010",
+    "name": "Pale Fruit Pink",
+    "family": "E",
+    "hex": "#E2D5C8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E030",
+    "name": "Pink Flamingo",
+    "family": "E",
+    "hex": "#DFAD77",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E050",
+    "name": "Lipstick Natural",
+    "family": "E",
+    "hex": "#D38027",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E060",
+    "name": "Light Mahogany",
+    "family": "E",
+    "hex": "#CEBFAE",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E080",
+    "name": "Praline",
+    "family": "E",
+    "hex": "#CE965A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E090",
+    "name": "Eggshell White",
+    "family": "E",
+    "hex": "#E5D5C5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E110",
+    "name": "Dark Suntan",
+    "family": "E",
+    "hex": "#B0681C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E120",
+    "name": "Reddish Brass",
+    "family": "E",
+    "hex": "#B87F42",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E130",
+    "name": "Copper",
+    "family": "E",
+    "hex": "#C98B48",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E160",
+    "name": "Soft Sun",
+    "family": "E",
+    "hex": "#D69652",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E170",
+    "name": "Caribe Cocoa",
+    "family": "E",
+    "hex": "#E1A25E",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E210",
+    "name": "Brick Beige",
+    "family": "E",
+    "hex": "#E0D7CC",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E220",
+    "name": "Sand",
+    "family": "E",
+    "hex": "#CAB39B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E240",
+    "name": "Chamois",
+    "family": "E",
+    "hex": "#D18B40",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E260",
+    "name": "Leather",
+    "family": "E",
+    "hex": "#DD964B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E280",
+    "name": "Sand White",
+    "family": "E",
+    "hex": "#DFD5CA",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E300",
+    "name": "Clay",
+    "family": "E",
+    "hex": "#D9AC7D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E310",
+    "name": "Dark Brown",
+    "family": "E",
+    "hex": "#7F4E1A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E370",
+    "name": "Light Walnut",
+    "family": "E",
+    "hex": "#DBBFA1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E380",
+    "name": "Ash Rose",
+    "family": "E",
+    "hex": "#C79661",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E400",
+    "name": "Cocoa Brown",
+    "family": "E",
+    "hex": "#8F5C26",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E430",
+    "name": "Pecan",
+    "family": "E",
+    "hex": "#DFAD77",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E432",
+    "name": "Vert Celadon",
+    "family": "E",
+    "hex": "#D38027",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E434",
+    "name": "Dragon Well Tea",
+    "family": "E",
+    "hex": "#C18A50",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E440",
+    "name": "Khaki",
+    "family": "E",
+    "hex": "#CE965A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E450",
+    "name": "Fennel Seed",
+    "family": "E",
+    "hex": "#DAA165",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E460",
+    "name": "Military Olive",
+    "family": "E",
+    "hex": "#E4AD71",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E470",
+    "name": "Tea Rose",
+    "family": "E",
+    "hex": "#B87F42",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "E490",
+    "name": "Deep Orange",
+    "family": "E",
+    "hex": "#794E20",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BR1",
+    "name": "Raw Umber",
+    "family": "BR",
+    "hex": "#D68952",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BR2",
+    "name": "Potato Brown",
+    "family": "BR",
+    "hex": "#9C5019",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BR3",
+    "name": "Rose Beige",
+    "family": "BR",
+    "hex": "#E0D4CC",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BR208",
+    "name": "Black Brown",
+    "family": "BR",
+    "hex": "#794520",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG01",
+    "name": "Warm Grey 1",
+    "family": "WG",
+    "hex": "#564C43",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG09",
+    "name": "Warm Grey 9",
+    "family": "WG",
+    "hex": "#6B6054",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG3",
+    "name": "Warm Grey 3",
+    "family": "WG",
+    "hex": "#817365",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG4",
+    "name": "Warm Grey 4",
+    "family": "WG",
+    "hex": "#948677",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG050",
+    "name": "Warm Grey 05",
+    "family": "WG",
+    "hex": "#A5998D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG070",
+    "name": "Warm Grey 07",
+    "family": "WG",
+    "hex": "#B6ACA2",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG090",
+    "name": "Warm Grey 09",
+    "family": "WG",
+    "hex": "#C7BFB8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "WG130",
+    "name": "Warm Grey 13",
+    "family": "WG",
+    "hex": "#564C43",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG2",
+    "name": "Cool Grey II 2",
+    "family": "CG",
+    "hex": "#545C6B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG5",
+    "name": "Cool Grey II 5",
+    "family": "CG",
+    "hex": "#656E81",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG100",
+    "name": "Cool Grey II 0",
+    "family": "CG",
+    "hex": "#778194",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG104",
+    "name": "Cool Grey II 4",
+    "family": "CG",
+    "hex": "#8D95A5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG107",
+    "name": "Cool Grey II 7",
+    "family": "CG",
+    "hex": "#A2A9B6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG108",
+    "name": "Cool Grey II 8",
+    "family": "CG",
+    "hex": "#B8BDC7",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CGII09",
+    "name": "Cool Grey II 9",
+    "family": "CGII",
+    "hex": "#434956",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG020",
+    "name": "Neutral Grey 02",
+    "family": "CG",
+    "hex": "#545C6B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG030",
+    "name": "Neutral Grey 03",
+    "family": "CG",
+    "hex": "#656E81",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG050",
+    "name": "Neutral Grey 05",
+    "family": "CG",
+    "hex": "#778194",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "CG070",
+    "name": "Neutral Grey 07",
+    "family": "CG",
+    "hex": "#8D95A5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "NG03",
+    "name": "Neutral Grey 3",
+    "family": "NG",
+    "hex": "#A2A9B6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "NG06",
+    "name": "Neutral Grey 6",
+    "family": "NG",
+    "hex": "#B8BDC7",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "NG07",
+    "name": "Neutral Grey 7",
+    "family": "NG",
+    "hex": "#434956",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "NG09",
+    "name": "Neutral Grey 9",
+    "family": "NG",
+    "hex": "#545C6B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RG030",
+    "name": "Red Grey 03",
+    "family": "RG",
+    "hex": "#8C605A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RG050",
+    "name": "Red Grey 05",
+    "family": "RG",
+    "hex": "#A1726B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RG080",
+    "name": "Red Grey 08",
+    "family": "RG",
+    "hex": "#AF8983",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RG110",
+    "name": "Red Grey 11",
+    "family": "RG",
+    "hex": "#BE9F9A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RG120",
+    "name": "Red Grey 12",
+    "family": "RG",
+    "hex": "#CDB5B1",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "RG150",
+    "name": "Red Grey 150",
+    "family": "RG",
+    "hex": "#5D403C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG1",
+    "name": "Green Grey 1",
+    "family": "GG",
+    "hex": "#566B54",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG3",
+    "name": "Green Grey 3",
+    "family": "GG",
+    "hex": "#678165",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG5",
+    "name": "Green Grey 5",
+    "family": "GG",
+    "hex": "#7A9477",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG9",
+    "name": "Green Grey 9",
+    "family": "GG",
+    "hex": "#8FA58D",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG020",
+    "name": "Green Grey 02",
+    "family": "GG",
+    "hex": "#A4B6A2",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG040",
+    "name": "Light Jade Green Grey",
+    "family": "GG",
+    "hex": "#B9C7B8",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG060",
+    "name": "Green Grey 06",
+    "family": "GG",
+    "hex": "#455643",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "GG110",
+    "name": "Toner Grey",
+    "family": "GG",
+    "hex": "#566B54",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YG040",
+    "name": "Yellow Grey 04",
+    "family": "YG",
+    "hex": "#828C5A",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "YG080",
+    "name": "Yellow Grey 08",
+    "family": "YG",
+    "hex": "#96A16B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "MG020",
+    "name": "Blue Grey 02",
+    "family": "MG",
+    "hex": "#8D99A5",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "MG030",
+    "name": "Blue Grey 03",
+    "family": "MG",
+    "hex": "#A2ACB6",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "MG060",
+    "name": "Blue Grey 06",
+    "family": "MG",
+    "hex": "#B8BFC7",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "MG100",
+    "name": "Blue Grey 09",
+    "family": "MG",
+    "hex": "#434C56",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BGII03",
+    "name": "Blue Grey II 3",
+    "family": "BGII",
+    "hex": "#54626B",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BGII05",
+    "name": "Blue Grey II 5",
+    "family": "BGII",
+    "hex": "#657581",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BGII09",
+    "name": "Blue Grey II 9",
+    "family": "BGII",
+    "hex": "#778894",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG050",
+    "name": "Cool Grey 05",
+    "family": "BG",
+    "hex": "#3B6063",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG060",
+    "name": "Deep Cool Grey",
+    "family": "BG",
+    "hex": "#436F73",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "BG070",
+    "name": "Cool Grey 07",
+    "family": "BG",
+    "hex": "#448288",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "FY010",
+    "name": "Fluorescent Yellow",
+    "family": "FY",
+    "hex": "#E9B10C",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "FY020",
+    "name": "Fluorescent Orange",
+    "family": "FY",
+    "hex": "#E4B528",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "FY030",
+    "name": "Fluorescent Red",
+    "family": "FY",
+    "hex": "#EEC035",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "FY050",
+    "name": "Fluorescent Violet",
+    "family": "FY",
+    "hex": "#F5C944",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  },
+  {
+    "code": "120",
+    "name": "Black",
+    "family": "120",
+    "hex": "#202329",
+    "set": "Honolulu 320 (códigos originales)",
+    "sample_note": "Muestra digital orientativa; verificar con el rotulador físico."
+  }
+]
